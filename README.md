@@ -1,4 +1,4 @@
-# ImageClassification
+## Neural Network introduction
 ---
 
 ### DNN
@@ -13,6 +13,12 @@ Data: FashionMNIST
 
 ### CNN
 
+- 3 layer Neural Network
+    - layer1: Convolution layer, Batch Normalization, ReLU
+    - layer2: Convolution layer, Batch Normatization, ReLU
+    - layer3: FC layer, softmax
 ---
 
 ### RNN
+
+
